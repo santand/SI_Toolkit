@@ -1,0 +1,3 @@
+'../Addnoise/Planck2015TTlowP_dm_m10_0-14_L_1_nside_512_tpn_1.dat'
+'../Shape_factors/alpha_10_l_lp1_wo_m_10_llp1_notation_v2.dat'
+'Output3/'
