@@ -6,3 +6,6 @@ ALMll_Estimation_isotropic_noise.f90 : This code calculates the ALMll for an iso
 beta_esstimation.f90 - Only for estimating beta without any noise. (Only one fl)
 
 beta_esstimation_with_noise.f90 - Only for estimating beta with noise. (Only one fl)
+
+
+ALMll_from_Anisotropic_Noise : This code will work for anisotropic noise and anisotropic map. 
